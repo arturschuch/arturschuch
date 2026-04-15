@@ -2,14 +2,6 @@
 
 Software engineer building reliable systems, APIs, and developer-friendly tooling.
 
-## Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturschuch/arturschuch/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturschuch/arturschuch/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arturschuch/arturschuch/output/github-snake.svg" />
-</picture>
-
 ## About me
 
 - Software engineer since 2012
@@ -24,16 +16,19 @@ Software engineer building reliable systems, APIs, and developer-friendly toolin
 - Developer experience and tooling
 - Code quality, testing, and maintainability
 
-## Featured projects
+## Contributions
 
-- [thoughtworks](https://github.com/arturschuch/thoughtworks) - Go project with recent activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturschuch/arturschuch/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturschuch/arturschuch/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arturschuch/arturschuch/output/github-snake.svg" />
+</picture>
+
 - [blockchain-indexer](https://github.com/arturschuch/blockchain-indexer) - Blockchain indexing and data processing in Go
-- [message-broker-cli](https://github.com/arturschuch/message-broker-cli) - CLI tooling for messaging workflows
-- [starwars](https://github.com/arturschuch/starwars) - Lightweight web project
 
 ## Tech I work with
 
-`Go` `Java` `JavaScript` `Clojure` `Ruby` `HTML/CSS`
+`Go` `Java` `JavaScript` `Python`
 
 ## How I work
 
@@ -44,3 +39,4 @@ Software engineer building reliable systems, APIs, and developer-friendly toolin
 ## Connect
 
 - GitHub: [@arturschuch](https://github.com/arturschuch)
+- Linkedin: [arturschuch](https://www.linkedin.com/in/arturschuch/)

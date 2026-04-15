@@ -27,6 +27,7 @@ Software engineer building reliable systems, APIs, and developer-friendly toolin
 ## Featured
 
 - [blockchain-indexer](https://github.com/arturschuch/blockchain-indexer) - Blockchain indexing and data processing in Go
+- [message-broker](https://github.com/arturschuch/message-broker-cli) - POC - CLI for publishing Protobuf messages to Kafka
 
 ## Tech I work with
 

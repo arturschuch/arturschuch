@@ -24,6 +24,8 @@ Software engineer building reliable systems, APIs, and developer-friendly toolin
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arturschuch/arturschuch/output/github-snake.svg" />
 </picture>
 
+## Featured
+
 - [blockchain-indexer](https://github.com/arturschuch/blockchain-indexer) - Blockchain indexing and data processing in Go
 
 ## Tech I work with

@@ -30,7 +30,7 @@ Software engineer building reliable systems, APIs, and developer-friendly toolin
 
 ## Tech I work with
 
-`Go` `Java` `JavaScript` `Python`
+`Go` `Java` `JavaScript` `Node` `Python`
 
 ## How I work
 
